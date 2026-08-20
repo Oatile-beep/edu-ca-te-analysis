@@ -1,0 +1,122 @@
+enquiry_id,enquiry_date,grade,subject,converted_to_registration,in_scope_grade
+ENQ0001,2026-05-06,12,Physical Sciences,Yes,True
+ENQ0002,2026-05-15,11,Mathematics,Yes,True
+ENQ0003,2026-05-28,12,Physical Sciences,No,True
+ENQ0004,2026-07-30,12,Physical Sciences,Yes,True
+ENQ0005,2026-05-17,11,Mathematics,No,True
+ENQ0006,2026-05-01,12,Accounting,No,True
+ENQ0007,2026-05-16,11,Life Sciences,No,True
+ENQ0008,2026-06-04,12,Mathematics,No,True
+ENQ0009,2026-05-29,11,Mathematics,No,True
+ENQ0010,2026-06-27,12,Physical Sciences,No,True
+ENQ0011,2026-07-18,10,Mathematics,Yes,True
+ENQ0012,2026-06-06,12,Mathematics,No,True
+ENQ0013,2026-06-26,11,Mathematics,No,True
+ENQ0014,2026-05-22,11,Mathematics,No,True
+ENQ0015,2026-06-25,10,Physical Sciences,No,True
+ENQ0016,2026-06-16,12,Mathematics,Yes,True
+ENQ0017,2026-06-14,11,Mathematics,No,True
+ENQ0018,2026-07-01,10,Life Sciences,Yes,True
+ENQ0019,2026-05-05,10,Mathematics,Yes,True
+ENQ0020,2026-06-01,10,Physical Sciences,Yes,True
+ENQ0021,2026-05-26,11,Mathematics,Yes,True
+ENQ0022,2026-07-14,10,Accounting,No,True
+ENQ0023,2026-06-23,12,Mathematics,Yes,True
+ENQ0024,2026-06-16,11,Mathematics,No,True
+ENQ0025,2026-05-30,11,Mathematics,No,True
+ENQ0026,2026-07-22,11,Physical Sciences,Yes,True
+ENQ0027,2026-05-28,12,Physical Sciences,No,True
+ENQ0028,2026-07-28,12,Mathematics,Yes,True
+ENQ0029,2026-07-15,12,Mathematics,No,True
+ENQ0030,2026-05-26,11,Mathematics,Yes,True
+ENQ0031,2026-05-21,12,Mathematics,No,True
+ENQ0032,2026-05-20,10,Mathematics,No,True
+ENQ0033,2026-05-17,11,Mathematics,Yes,True
+ENQ0034,2026-05-08,10,Mathematics,Yes,True
+ENQ0035,2026-06-19,10,Mathematics,No,True
+ENQ0036,2026-06-11,10,Life Sciences,No,True
+ENQ0037,2026-07-10,10,Mathematics,No,True
+ENQ0038,2026-07-10,11,Physical Sciences,No,True
+ENQ0039,2026-05-10,11,Mathematics,Yes,True
+ENQ0040,2026-06-11,11,Mathematics,No,True
+ENQ0041,2026-05-22,11,Physical Sciences,No,True
+ENQ0042,2026-07-01,10,Physical Sciences,Yes,True
+ENQ0043,2026-05-24,12,Mathematics,No,True
+ENQ0044,2026-07-02,12,Life Sciences,Yes,True
+ENQ0045,2026-07-28,10,Mathematics,No,True
+ENQ0046,2026-07-09,12,Physical Sciences,No,True
+ENQ0047,2026-06-02,11,Mathematics,No,True
+ENQ0048,2026-07-27,11,Physical Sciences,No,True
+ENQ0049,2026-06-30,12,Physical Sciences,No,True
+ENQ0050,2026-07-28,11,Physical Sciences,Yes,True
+ENQ0051,2026-07-18,12,Mathematics,No,True
+ENQ0052,2026-05-11,10,Mathematics,Yes,True
+ENQ0053,2026-06-25,10,Physical Sciences,No,True
+ENQ0054,2026-06-28,11,Physical Sciences,Yes,True
+ENQ0055,2026-06-26,11,Physical Sciences,Yes,True
+ENQ0056,2026-07-25,12,Physical Sciences,No,True
+ENQ0057,2026-07-10,12,Physical Sciences,Yes,True
+ENQ0058,2026-06-22,11,Accounting,No,True
+ENQ0059,2026-06-11,11,Mathematics,Yes,True
+ENQ0060,2026-05-02,12,Mathematics,No,True
+ENQ0061,2026-07-22,12,Mathematics,No,True
+ENQ0062,2026-07-26,12,Mathematics,Yes,True
+ENQ0063,2026-05-13,11,Accounting,Yes,True
+ENQ0064,2026-07-25,12,Physical Sciences,No,True
+ENQ0065,2026-07-25,10,Physical Sciences,No,True
+ENQ0066,2026-07-29,12,Mathematics,Yes,True
+ENQ0067,2026-05-29,11,Accounting,Yes,True
+ENQ0068,2026-07-09,12,Physical Sciences,Yes,True
+ENQ0069,2026-07-13,10,Physical Sciences,Yes,True
+ENQ0070,2026-05-17,10,Life Sciences,Yes,True
+ENQ0071,2026-06-26,10,Accounting,No,True
+ENQ0072,2026-07-06,12,Physical Sciences,Yes,True
+ENQ0073,2026-05-19,11,Accounting,No,True
+ENQ0074,2026-06-18,12,Mathematics,Yes,True
+ENQ0075,2026-06-08,11,Mathematics,No,True
+ENQ0076,2026-06-16,11,Mathematics,Yes,True
+ENQ0077,2026-07-23,11,Physical Sciences,No,True
+ENQ0078,2026-07-12,10,Life Sciences,No,True
+ENQ0079,2026-07-14,10,Mathematics,Unknown,True
+ENQ0080,2026-05-22,10,Physical Sciences,Yes,True
+ENQ0081,2026-05-02,12,Life Sciences,No,True
+ENQ0082,2026-05-28,10,Mathematics,Yes,True
+ENQ0083,2026-06-11,12,Physical Sciences,Yes,True
+ENQ0084,2026-07-02,11,Life Sciences,No,True
+ENQ0085,2026-05-27,10,Physical Sciences,Yes,True
+ENQ0086,2026-05-10,11,Life Sciences,No,True
+ENQ0087,2026-06-26,12,Physical Sciences,No,True
+ENQ0088,2026-07-20,11,Physical Sciences,No,True
+ENQ0089,2026-05-15,11,Physical Sciences,Yes,True
+ENQ0090,2026-07-24,11,Accounting,Yes,True
+ENQ0091,2026-05-28,11,Accounting,Yes,True
+ENQ0092,2026-05-27,11,Physical Sciences,No,True
+ENQ0093,,11,Physical Sciences,No,True
+ENQ0094,2026-06-04,11,Mathematics,No,True
+ENQ0095,2026-07-15,11,Life Sciences,No,True
+ENQ0096,2026-06-30,10,Mathematics,No,True
+ENQ0097,2026-07-15,10,Physical Sciences,Yes,True
+ENQ0098,2026-06-16,11,Life Sciences,Yes,True
+ENQ0099,2026-06-07,11,Physical Sciences,Yes,True
+ENQ0100,2026-07-27,11,Physical Sciences,Yes,True
+ENQ0101,2026-07-06,11,Physical Sciences,No,True
+ENQ0102,2026-06-17,10,Mathematics,Yes,True
+ENQ0103,2026-06-22,12,Physical Sciences,No,True
+ENQ0104,2026-05-04,11,Accounting,No,True
+ENQ0105,2026-07-29,11,Life Sciences,Yes,True
+ENQ0106,2026-05-15,12,Mathematics,Yes,True
+ENQ0107,2026-06-23,10,Life Sciences,No,True
+ENQ0108,2026-06-15,12,Physical Sciences,No,True
+ENQ0109,2026-07-29,10,Physical Sciences,Yes,True
+ENQ0110,2026-07-30,11,Accounting,Yes,True
+ENQ0111,2026-07-14,10,Mathematics,Yes,True
+ENQ0112,2026-05-04,11,Life Sciences,No,True
+ENQ0113,2026-07-20,11,Life Sciences,No,True
+ENQ0114,2026-05-14,10,Mathematics,Yes,True
+ENQ0115,2026-06-05,10,Mathematics,Yes,True
+ENQ0116,2026-06-03,10,Physical Sciences,No,True
+ENQ0117,2026-06-19,10,Accounting,Yes,True
+ENQ0118,2026-06-05,10,Physical Sciences,No,True
+ENQ0119,2026-07-21,10,Mathematics,No,True
+ENQ0120,2026-05-25,10,Mathematics,Yes,True
+ENQ9999,2026-07-02,13,Mathematics,Maybe,False

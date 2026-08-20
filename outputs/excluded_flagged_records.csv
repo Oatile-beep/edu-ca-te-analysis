@@ -1,0 +1,25 @@
+learner_id,gender,grade,registration_date,source_dataset,exclusion_reason,subject,tutoring_attendance_pct,videos_watched,watch_time_minutes,baseline_mark,latest_mark
+,Male,Grade 11,2026-04-08,learners,Missing learner_id - cannot be linked to engagement/assessments,,,,,,
+,M,12,2026-03-05,learners,Missing learner_id - cannot be linked to engagement/assessments,,,,,,
+LND1012,Male,10,2026-04-19,learners,Duplicate learner_id after normalizing case/whitespace (kept first occurrence),,,,,,
+LND1045,Male,G11,2026-03-30,learners,Duplicate learner_id after normalizing case/whitespace (kept first occurrence),,,,,,
+LND1054,,,,engagement,Missing subject - cannot attribute engagement to a subject,,66.2,3.0,44.3,,
+LND1117,,,,engagement,Missing subject - cannot attribute engagement to a subject,,51,13.0,293.9,,
+LND1009,,,,engagement,Duplicate learner+subject engagement record (kept first occurrence),Mathematics,99.4,38.0,573.8,,
+LND1020,,,,engagement,Duplicate learner+subject engagement record (kept first occurrence),Mathematics,55.3,23.0,453.5,,
+LND1051,,,,engagement,Duplicate learner+subject engagement record (kept first occurrence),Mathematics,82.7,9.0,104.3,,
+LND1061,,,,engagement,Duplicate learner+subject engagement record (kept first occurrence),Mathematics,58.8,8.0,175.2,,
+LND1107,,,,engagement,Duplicate learner+subject engagement record (kept first occurrence),Physical Sciences,88.5,33.0,364.6,,
+LND1112,,,,engagement,Duplicate learner+subject engagement record (kept first occurrence),Physical Sciences,68.6,6.0,124.9,,
+LND1137,,,,engagement,Duplicate learner+subject engagement record (kept first occurrence),Mathematics,67.2,35.0,-15.5,,
+LND1140,,,,engagement,Duplicate learner+subject engagement record (kept first occurrence),Mathematics,63.2,13.0,281.1,,
+LND1062,,,,engagement,Duplicate learner+subject engagement record (kept first occurrence),Life Sciences,99.9,29.0,-15.5,,
+LND1042,,,,engagement,learner_id not found in learners master table,Life Sciences,77.5,35.0,574.6,,
+LND1050,,,,engagement,learner_id not found in learners master table,Accounting,98.2,8.0,,,
+LND1118,,,,engagement,learner_id not found in learners master table,Life Sciences,61.9,7.0,78.3,,
+TEMP-004,,,,engagement,learner_id not found in learners master table,Life Sciences,53.8,40.0,655.6,,
+LND1069,,,,assessments,Missing learner_id and/or subject - row cannot be attributed,,,,,39,45.0
+,,,,assessments,Missing learner_id and/or subject - row cannot be attributed,Life Sciences,,,,50,71.0
+LND1042,,,,assessments,learner_id not found in learners master table,Life Sciences,,,,54.0,82.0
+LND1050,,,,assessments,learner_id not found in learners master table,Accounting,,,,37.0,41.0
+LND1118,,,,assessments,learner_id not found in learners master table,Life Sciences,,,,50.0,54.0

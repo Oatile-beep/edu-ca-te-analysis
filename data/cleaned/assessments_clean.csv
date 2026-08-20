@@ -1,0 +1,194 @@
+learner_id,subject,baseline_mark,latest_mark,mark_change
+LND1000,Life Sciences,62.0,91.0,29.0
+LND1000,Mathematics,31.0,,
+LND1001,Accounting,67.0,72.0,5.0
+LND1001,Mathematics,70.0,,
+LND1002,Life Sciences,67.0,85.0,18.0
+LND1003,Physical Sciences,40.0,55.0,15.0
+LND1003,Accounting,54.0,60.0,6.0
+LND1005,Mathematics,74.0,90.0,16.0
+LND1005,Physical Sciences,39.0,46.0,7.0
+LND1006,Physical Sciences,69.0,85.0,16.0
+LND1007,Accounting,33.0,72.0,39.0
+LND1008,Physical Sciences,72.0,77.0,5.0
+LND1009,Mathematics,59.0,66.0,7.0
+LND1009,Mathematics,73.0,100.0,27.0
+LND1010,Mathematics,42.0,77.0,35.0
+LND1010,Accounting,49.0,83.0,34.0
+LND1011,Life Sciences,61.0,85.0,24.0
+LND1012,Mathematics,47.0,61.0,14.0
+LND1013,Mathematics,55.0,55.0,0.0
+LND1014,Mathematics,48.0,55.0,7.0
+LND1014,Physical Sciences,58.0,81.0,23.0
+LND1015,Accounting,64.0,64.0,0.0
+LND1016,Accounting,36.0,54.0,18.0
+LND1016,Life Sciences,72.0,100.0,28.0
+LND1017,Physical Sciences,36.0,37.0,1.0
+LND1017,Mathematics,38.0,42.0,4.0
+LND1018,Physical Sciences,,65.0,
+LND1018,Life Sciences,,77.0,
+LND1019,Accounting,71.0,92.0,21.0
+LND1019,Physical Sciences,44.0,50.0,6.0
+LND1020,Mathematics,41.0,41.0,0.0
+LND1020,Mathematics,32.0,59.0,27.0
+LND1021,Mathematics,48.0,80.0,32.0
+LND1021,Physical Sciences,36.0,41.0,5.0
+LND1022,Life Sciences,71.0,88.0,17.0
+LND1022,Mathematics,62.0,,
+LND1023,Physical Sciences,40.0,71.0,31.0
+LND1024,Mathematics,30.0,55.0,25.0
+LND1024,Physical Sciences,,62.0,
+LND1025,Life Sciences,57.0,63.0,6.0
+LND1025,Physical Sciences,41.0,54.0,13.0
+LND1026,Mathematics,30.0,45.0,15.0
+LND1026,Physical Sciences,51.0,53.0,2.0
+LND1027,Mathematics,71.0,93.0,22.0
+LND1027,Physical Sciences,59.0,80.0,21.0
+LND1028,Physical Sciences,75.0,100.0,25.0
+LND1029,Mathematics,48.0,58.0,10.0
+LND1029,Physical Sciences,60.0,82.0,22.0
+LND1030,Physical Sciences,56.0,71.0,15.0
+LND1033,Life Sciences,72.0,91.0,19.0
+LND1033,Mathematics,68.0,100.0,32.0
+LND1035,Life Sciences,75.0,78.0,3.0
+LND1036,Accounting,65.0,86.0,21.0
+LND1036,Mathematics,40.0,43.0,3.0
+LND1037,Mathematics,43.0,79.0,36.0
+LND1038,Physical Sciences,58.0,87.0,29.0
+LND1039,Mathematics,59.0,77.0,18.0
+LND1039,Accounting,49.0,80.0,31.0
+LND1040,Mathematics,43.0,49.0,6.0
+LND1040,Life Sciences,34.0,63.0,29.0
+LND1041,Physical Sciences,60.0,66.0,6.0
+LND1041,Accounting,71.0,100.0,29.0
+LND1044,Accounting,35.0,52.0,17.0
+LND1045,Accounting,71.0,,
+LND1048,Life Sciences,55.0,55.0,0.0
+LND1048,Mathematics,,61.0,
+LND1049,Accounting,64.0,75.0,11.0
+LND9999,Life Sciences,59.0,81.0,22.0
+LND1051,Mathematics,31.0,31.0,0.0
+LND1051,Mathematics,58.0,66.0,8.0
+LND1052,Physical Sciences,32.0,58.0,26.0
+LND1052,Mathematics,,53.0,
+LND1053,Physical Sciences,66.0,70.0,4.0
+LND1054,Mathematics,50.0,,
+LND1054,Physical Sciences,63.0,86.0,23.0
+LND1055,Mathematics,,100.0,
+LND1055,Physical Sciences,57.0,57.0,0.0
+LND1056,Mathematics,71.0,92.0,21.0
+LND1057,Life Sciences,56.0,79.0,23.0
+LND1057,Physical Sciences,64.0,78.0,14.0
+LND1059,Mathematics,,85.0,
+LND1060,Mathematics,56.0,65.0,9.0
+LND1061,Mathematics,45.0,50.0,5.0
+LND1061,Mathematics,58.0,66.0,8.0
+LND1062,Physical Sciences,42.0,58.0,16.0
+LND1062,Life Sciences,32.0,64.0,32.0
+LND1063,Mathematics,72.0,94.0,22.0
+LND1063,Life Sciences,51.0,62.0,11.0
+LND1065,Mathematics,42.0,,
+LND1066,Physical Sciences,60.0,67.0,7.0
+LND1066,Life Sciences,55.0,61.0,6.0
+LND1067,Mathematics,54.0,58.0,4.0
+LND1067,Physical Sciences,53.0,72.0,19.0
+LND1068,Mathematics,60.0,77.0,17.0
+LND1068,Life Sciences,50.0,60.0,10.0
+LND1070,Life Sciences,56.0,82.0,26.0
+LND1072,Mathematics,66.0,67.0,1.0
+LND1073,Physical Sciences,73.0,78.0,5.0
+LND1074,Mathematics,71.0,100.0,29.0
+LND1074,Physical Sciences,52.0,72.0,20.0
+LND1075,Accounting,64.0,97.0,33.0
+LND1075,Mathematics,34.0,53.0,19.0
+LND1076,Accounting,56.0,59.0,3.0
+LND1076,Mathematics,39.0,56.0,17.0
+LND1077,Accounting,69.0,74.0,5.0
+LND1077,Physical Sciences,72.0,97.0,25.0
+LND1079,Mathematics,30.0,47.0,17.0
+LND1080,Physical Sciences,48.0,67.0,19.0
+LND1080,Mathematics,41.0,58.0,17.0
+LND1081,Mathematics,42.0,74.0,32.0
+LND1081,Physical Sciences,,55.0,
+LND1083,Life Sciences,45.0,55.0,10.0
+LND1083,Physical Sciences,35.0,35.0,0.0
+LND1084,Life Sciences,,50.0,
+LND1086,Physical Sciences,70.0,84.0,14.0
+LND1087,Life Sciences,57.0,,
+LND1088,Accounting,36.0,39.0,3.0
+LND1090,Mathematics,74.0,100.0,26.0
+LND1090,Physical Sciences,34.0,55.0,21.0
+LND1092,Mathematics,72.0,92.0,20.0
+LND1092,Accounting,43.0,78.0,35.0
+LND1093,Physical Sciences,55.0,83.0,28.0
+LND1094,Physical Sciences,66.0,73.0,7.0
+LND1094,Mathematics,51.0,57.0,6.0
+LND1095,Physical Sciences,74.0,,
+LND1096,Physical Sciences,33.0,35.0,2.0
+LND1096,Life Sciences,68.0,90.0,22.0
+LND1098,Physical Sciences,50.0,,
+LND1099,Accounting,61.0,,
+LND1100,Accounting,41.0,61.0,20.0
+LND1102,Mathematics,69.0,85.0,16.0
+LND1102,Physical Sciences,47.0,70.0,23.0
+LND1103,Life Sciences,54.0,81.0,27.0
+LND1103,Physical Sciences,49.0,66.0,17.0
+LND1105,Life Sciences,35.0,48.0,13.0
+LND1106,Physical Sciences,56.0,74.0,18.0
+LND1107,Physical Sciences,68.0,76.0,8.0
+LND1107,Physical Sciences,48.0,74.0,26.0
+LND1109,Physical Sciences,,100.0,
+LND1110,Accounting,40.0,67.0,27.0
+LND1111,Life Sciences,47.0,77.0,30.0
+LND1112,Physical Sciences,56.0,61.0,5.0
+LND1112,Physical Sciences,45.0,51.0,6.0
+LND1114,Mathematics,59.0,61.0,2.0
+LND1114,Physical Sciences,51.0,52.0,1.0
+LND1115,Life Sciences,58.0,72.0,14.0
+LND1116,Mathematics,68.0,85.0,17.0
+LND1117,Mathematics,42.0,52.0,10.0
+LND1119,Accounting,66.0,67.0,1.0
+LND1120,Mathematics,55.0,82.0,27.0
+LND1121,Mathematics,64.0,84.0,20.0
+LND1122,Life Sciences,,,
+LND1122,Mathematics,74.0,85.0,11.0
+LND1123,Physical Sciences,73.0,79.0,6.0
+LND1123,Accounting,72.0,73.0,1.0
+LND1124,Mathematics,58.0,72.0,14.0
+LND1124,Accounting,62.0,81.0,19.0
+LND1125,Life Sciences,32.0,64.0,32.0
+LND1125,Physical Sciences,64.0,88.0,24.0
+LND1126,Mathematics,45.0,62.0,17.0
+LND1126,Physical Sciences,32.0,51.0,19.0
+LND1127,Life Sciences,51.0,98.0,47.0
+LND1127,Mathematics,46.0,46.0,0.0
+LND1130,Life Sciences,74.0,75.0,1.0
+LND1130,Accounting,73.0,76.0,3.0
+LND1131,Mathematics,31.0,40.0,9.0
+LND1132,Physical Sciences,35.0,57.0,22.0
+LND1132,Accounting,49.0,51.0,2.0
+LND1134,Physical Sciences,52.0,81.0,29.0
+LND1135,Physical Sciences,31.0,32.0,1.0
+LND1136,Mathematics,40.0,44.0,4.0
+LND1137,Mathematics,65.0,77.0,12.0
+LND1137,Mathematics,44.0,81.0,37.0
+LND1138,Mathematics,72.0,87.0,15.0
+LND1139,Mathematics,42.0,70.0,28.0
+LND1139,Life Sciences,43.0,49.0,6.0
+LND1140,Mathematics,34.0,34.0,0.0
+LND1140,Mathematics,53.0,62.0,9.0
+LND1141,Physical Sciences,61.0,82.0,21.0
+LND1141,Life Sciences,69.0,92.0,23.0
+LND1142,Physical Sciences,59.0,66.0,7.0
+LND1142,Life Sciences,49.0,57.0,8.0
+LND1143,Mathematics,50.0,55.0,5.0
+LND1143,Accounting,74.0,79.0,5.0
+LND1144,Mathematics,66.0,90.0,24.0
+LND1146,Life Sciences,74.0,80.0,6.0
+LND1146,Mathematics,40.0,59.0,19.0
+LND1147,Mathematics,58.0,90.0,32.0
+LND1147,Accounting,61.0,,
+LND1148,Physical Sciences,,85.0,
+LND1149,Mathematics,75.0,100.0,25.0
+LND1149,Accounting,31.0,72.0,41.0
+LND1052,Physical Sciences,32.0,42.0,10.0
