@@ -7,10 +7,19 @@
 - [x] Data-quality audit
 - [x] Cleaning script/notebook + cleaning log
 - [x] Validation (row counts, subject consistency, join integrity)
-- [ ] Analysis (engagement, mark change, enquiry demand/conversion, capacity)
-- [ ] KPIs
-- [ ] Business recommendation + visualization
-- [ ] Limitations section
+- [x] Analysis (engagement, mark change, enquiry demand/conversion, capacity)
+- [x] KPIs
+- [x] Business recommendation + visualization
+- [x] Limitations section
+
+## Recommendation (summary)
+
+**Accounting** should receive additional tutoring resources next term. It shows the highest
+capacity strain of any subject relative to its own size (waiting list = 65.5% of its currently
+engaged learners — no other subject is above 50%), while also showing that its existing
+tutoring is working well (2nd-highest average mark improvement, highest enquiry-conversion
+rate). Full reasoning, evidence, and trade-offs against the alternatives (Mathematics,
+Physical Sciences, Life Sciences) are in `notebooks/02_analysis_and_recommendation.ipynb`.
 
 ## Repository Structure
 
@@ -27,13 +36,17 @@ edu-ca-te-analysis/
 │       ├── support_capacity_clean.csv
 │       └── enquiries_clean.csv
 ├── notebooks/
-│   └── 01_data_cleaning.ipynb         ← reproducible cleaning (run in Colab or locally)
+│   ├── 01_data_cleaning.ipynb              ← reproducible cleaning (run in Colab or locally)
+│   └── 02_analysis_and_recommendation.ipynb ← engagement, mark-change, enquiries, capacity, KPIs, recommendation
 ├── reports/
 │   ├── data_quality_audit.md          ← pre-cleaning audit, issues quantified per sheet
 │   └── cleaning_log.csv               ← every cleaning action: problem, action, justification, rows affected
 └── outputs/
     ├── excluded_flagged_records.csv   ← rows removed from analysis, kept with a reason (never silently deleted)
-    └── charts/                        ← visualizations (added during analysis phase)
+    ├── kpi_summary.csv                ← the KPI table from the analysis notebook
+    └── charts/
+        ├── engagement_vs_mark_change.png
+        └── capacity_pressure_by_subject.png
 ```
 
 ## How to Reproduce

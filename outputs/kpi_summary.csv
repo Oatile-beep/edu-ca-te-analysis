@@ -1,0 +1,5 @@
+subject,learners_engaged,avg_attendance_pct,avg_mark_change,n_with_valid_change,total_enquiries,yes,no,conversion_rate_pct,active_tutors,weekly_tutor_hours,waiting_list,estimated_cost_per_extra_hour,learners_per_tutor,waiting_list_per_tutor,waiting_list_pct_of_engaged
+Accounting,29,74.2,16.5,26,12,6,6,50.0,2,15.0,19.0,175.0,14.5,9.5,65.5
+Life Sciences,34,75.1,18.1,30,15,5,10,33.3,3,22.0,14.0,165.0,11.3,4.7,41.2
+Mathematics,63,72.8,15.6,62,51,24,25,49.0,4,26.0,31.0,180.0,15.8,7.8,49.2
+Physical Sciences,57,78.0,14.1,52,43,20,23,46.5,3,18.0,28.0,210.0,19.0,9.3,49.1
